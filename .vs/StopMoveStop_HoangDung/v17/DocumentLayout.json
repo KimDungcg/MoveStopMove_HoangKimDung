@@ -1,0 +1,520 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\shopweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\shopweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\poollearning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\poollearning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\poolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\poolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\particlepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\particlepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\nametext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\nametext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\gameunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\gameunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\weapon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\weapon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\weapon\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\weapon\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\weapon\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\weapon\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\weapon\\boomerang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\weapon\\boomerang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\weapon\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\weapon\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\weapon\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\weapon\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\manager\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\manager\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\manager\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\manager\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\istate\\runstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\istate\\runstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\istate\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\istate\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\istate\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\istate\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\istate\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\istate\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\indicator\\screenindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\indicator\\screenindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stopmovestop_hoangdung\\assets\\_game\\script\\indicator\\indicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48888424-0DF9-15CF-A5D5-20E025E55AE6}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\indicator\\indicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopWeapon.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\ShopWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\ShopWeapon.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\ShopWeapon.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\ShopWeapon.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:43:51.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PoolLearning.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\PoolLearning.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\PoolLearning.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\PoolLearning.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\PoolLearning.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:43:46.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PoolController.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\PoolController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\PoolController.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\PoolController.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\PoolController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:43:43.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Player.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Player.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:43:35.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParticlePool.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\ParticlePool.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\ParticlePool.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\ParticlePool.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\ParticlePool.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAcwD0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:42:58.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Obstacle.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Obstacle.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:42:55.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NameText.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\NameText.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\NameText.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\NameText.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\NameText.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:42:48.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Level.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Level.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Level.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Level.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:42:44.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameUnit.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\GameUnit.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\GameUnit.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\GameUnit.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\GameUnit.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:42:41.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Enemy.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Enemy.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Enemy.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:42:34.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Const.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Const.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Const.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Const.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Const.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:42:31.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Character.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Character.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Character.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAGIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:42:07.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\CameraFollow.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\CameraFollow.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:41:56.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cache.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Cache.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Cache.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Cache.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Cache.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:41:53.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Weapon\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Weapon\\Weapon.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Weapon\\Weapon.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Weapon\\Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:41:46.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Weapon\\Effect.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Weapon\\Effect.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Weapon\\Effect.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Weapon\\Effect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:41:43.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Weapon\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Weapon\\Bullet.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Weapon\\Bullet.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Weapon\\Bullet.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwEUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:40:54.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Boomerang.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Weapon\\Boomerang.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Weapon\\Boomerang.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Weapon\\Boomerang.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Weapon\\Boomerang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:40:46.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Axe.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Weapon\\Axe.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Weapon\\Axe.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Weapon\\Axe.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Weapon\\Axe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:40:43.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Arrow.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Weapon\\Arrow.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Weapon\\Arrow.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Weapon\\Arrow.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Weapon\\Arrow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:40:40.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Manager\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Manager\\Singleton.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Manager\\Singleton.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Manager\\Singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:40:37.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RunState.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\ISTATE\\RunState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\ISTATE\\RunState.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\ISTATE\\RunState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\ISTATE\\RunState.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:40:19.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISTATE.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\ISTATE\\ISTATE.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\ISTATE\\ISTATE.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\ISTATE\\ISTATE.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\ISTATE\\ISTATE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:40:16.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\ISTATE\\IdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\ISTATE\\IdleState.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\ISTATE\\IdleState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\ISTATE\\IdleState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:40:12.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AttackState.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\ISTATE\\AttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\ISTATE\\AttackState.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\ISTATE\\AttackState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\ISTATE\\AttackState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:40:07.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScreenIndicator.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Indicator\\ScreenIndicator.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Indicator\\ScreenIndicator.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Indicator\\ScreenIndicator.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Indicator\\ScreenIndicator.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:39:33.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Indicator.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Indicator\\Indicator.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Indicator\\Indicator.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Indicator\\Indicator.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Indicator\\Indicator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:39:25.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Manager\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Manager\\LevelManager.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StopMoveStop_HoangDung\\Assets\\_Game\\Script\\Manager\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Manager\\LevelManager.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAAC8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:27:33.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
